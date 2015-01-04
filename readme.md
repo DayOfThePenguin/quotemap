@@ -29,6 +29,7 @@ The dream:
 * Let you turn your references into a gigantic map like [Docear](http://www.docear.com) so you can visualize the connections between everything you read, tracking common themes and the evolution of interesting ideas using [json-ld](http://json-ld.org/index.html) to persist data and [networkx](http://networkx.github.io/) to do make the graph operations easier.
 
 ```text
+Comments, questions, concerns?  I'd be happy to hear from you; you can
+reach me at <colin.dablain@gmail.com>
 (C) 2014-2015 Colin Dablain
-Comments, questions, concerns?  I'd be happy to hear from you; you can reach me at <colin.dablain@gmail.com>
 ```
