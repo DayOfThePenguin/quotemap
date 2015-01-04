@@ -29,7 +29,7 @@ class Quote(object):
         self.data = data
         self.comment = comment
 
-
-q = Quote(12, 'hello', 'asdfasdfasdf')
-print(json.dumps(q.__dict__))
-print(q.__dict__)
+if (__name__ == "__main__"):
+    q = Quote(12, 'hello', 'asdfasdfasdf')
+    print(json.dumps(q.__dict__))
+    print(q.__dict__)

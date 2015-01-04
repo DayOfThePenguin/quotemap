@@ -1,0 +1,2 @@
+1. Get it working...the ability to create a book, record quotes, and save it.  Loading can come later.
+2. Create a Menu class in the ui folder, which can be the super of the different menus that need to be created
