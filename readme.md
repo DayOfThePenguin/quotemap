@@ -1,5 +1,5 @@
 #Quote Map (CURRENTLY BROKEN)
-##Use me to keep track of interesting things you discover while reading
+Use: Keep track of interesting things you discover while reading
 
 Quotemap is a series of python modules that allow you to keep track of quotes and thoughts as you read books or other media.
 
@@ -23,7 +23,7 @@ Not reading a book or any of the media already defined in the /datatypes folder?
     /datatypes/movie >>
 ```
 
-The dream:
+###The dream:
 
 * Build a web app with a highlight-enabled embedded pdf viewer like [Mendeley](http://www.mendeley.com)
 * Let you turn your references into a gigantic map like [Docear](http://www.docear.com) so you can visualize the connections between everything you read, tracking common themes and the evolution of interesting ideas using [json-ld](http://json-ld.org/index.html) to persist data and [networkx](http://networkx.github.io/) to do make the graph operations easier.
